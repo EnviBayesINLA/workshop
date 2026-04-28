@@ -1,0 +1,35 @@
+---
+title: "Workshop Descriptions"
+title-block-banner: "#00000000"
+title-block-banner-color: "black"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      #title-block-header {
+        background-image: url(images/uofgcoss_cover.jpg);
+        background-size: cover;
+        background-position-y: center;
+        height: 200px;
+      }
+      </style>
+---
+
+
+The following workshops will be given at the EnviBayes/INLA conference on the XXX
+
+**Example**
+
+::: {.callout-note appearance="minimal" icon="false"}
+## INLA AND BEYOND: Bayesian Hierarchical Modelling with `inlabru` 
+
+\
+**Jafet Belmont Osuna\*,** University of Glasgow\
+\
+INLA, a powerful tool for efficiently fitting complex spatial models, comes with a steep learning curve. This workshop introduces `inlabru` – a user-friendly interface to INLA. Learn to specify models intuitively, handle spatial data efficiently, and focus on data structures and interpretation relevant to ecology, rather than computational complexity!
+:::

@@ -1,0 +1,114 @@
+---
+title: "EnviBayes/INLA workshop 2027"
+subtitle: "Glasgow, UK"
+title-block-banner: "#00000000"
+title-block-banner-color: "black"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      #title-block-header {
+        background-image: url(images/uofgcoss_cover.jpg);
+        background-size: cover;
+        background-position-y: center;
+        height: 200px;
+      }
+      </style>
+format: 
+  html:
+    mainfont: "12"
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+Welcome to the EnviBayes/INLA workshop 2027
+
+::: {.callout-warning appearance="minimal" icon="false"}
+**Abstract submission** now open - submit [here](https://github.com/EnviBayesINLA/workshop/docs)
+
+**Deadline**: XXXX
+:::
+
+Welcome to EnviBayes/INLA workshop...`add description of the workshop including:`
+
+- First joint event between EnviBayes and INLA
+- talks, posters and workshops, a broad range of topics are covered
+
+# Keynote speakers{#sec-keynotes}
+
+
+::: {layout-ncol="3"}
+![Speaker1](images/Speaker1.png){width="185"}
+
+![Speaker2](images/Speaker1.png){width="185"}
+
+![Speaker3](images/Speaker1.png){width="185"}
+:::
+
+# Important Dates{#sec-dates}
+
+::::: columns
+::: {.column width="50%"}
+[Contributed Talks & Posters]{style="color:blue;"}
+
+- **Open**:
+
+- **Close**:
+:::
+
+::: {.column width="50%"}
+[Registration]{style="color:blue;"}
+
+- **Early Bird Opens**:
+
+- **Early Bird Closes**:
+:::
+:::::
+
+# Registration Cost – Conference
+
+:::::: columns
+::: {.column width="33.33%"}
+[Non-Students]{style="color:blue;"}
+
+- **Early bird**:
+
+- **Regular**:
+:::
+
+::: {.column width="33.33%"}
+[Students]{style="color:blue;"}
+
+- **Early bird**:
+
+- **Regular**:
+:::
+
+::: {.column width="33.33%"}
+[Registration Cost – Workshops]{style="color:blue;"}
+
+- **Half-Day**:
+
+- **1-Day**:
+:::
+::::::
+
+::: {.callout-note icon="false"}
+## Contact
+
+Questions about the conference? Join the discussion on [GitHub](https://github.com/EnviBayesINLA/workshop/discussions).
+
+:::
+
+
+
+# Licence
+
+[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)

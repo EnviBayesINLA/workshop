@@ -1,0 +1,70 @@
+---
+title: "Programme"
+title-block-banner: "#00000000"
+title-block-banner-color: "black"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      #title-block-header {
+        background-image: url(images/uofgcoss_cover.jpg);
+        background-size: cover;
+        background-position-y: center;
+        height: 200px;
+      }
+      </style>
+---
+
+## Schedule {#schedule-tabs}
+
+Template for the programme
+
+::: panel-tabset
+### pre-conference workshops& Welcome
+
+| Time | Activity |
+|:----------------------------------:|:----------------------------------:|
+| 10:00 - 10:30 | Workshop |
+| 10:30 - 11:30 | Workshop  |
+| 11:30 - 13:00 | Workshop   |
+| 13:00 - 14:30 | Lunch break 🍽️ |
+| 14:00 - 15:00 | Workshop   |
+| 15:00 - 20:00 | **Welcome drinks** |
+
+### Day 1
+
+| Time | Topic |
+|:----------------------------------:|:----------------------------------:|
+| 9:00 - 10:00 | Keynote Speaker |
+| 10:00 - 12:00 | Invited Talks |
+| 12:00 - 13:00 | Lunch 🍽|
+| 13:00 - 16:00 | Contributed Talks     |
+| 16.00 - 18:00 |Poster session       |
+
+### Day 2
+
+| Time | Topic |
+|:----------------------------------:|:----------------------------------:|
+| 9:00 - 10:00 | Keynote Speaker |
+| 10:00 - 12:00 |  Talks |
+| 12:00 - 13:00 | Lunch 🍽|
+| 13:00 - 16:00 |  Talks     |
+| 16.00 - 18:00 | Keynote Speaker       |
+
+
+### Day 3
+
+| Time | Topic |
+|:----------------------------------:|:----------------------------------:|
+| 9:00 - 10:00 | Keynote Speaker |
+| 10:00 - 12:00 |  Talks |
+| 12:00 - 13:00 | Lunch 🍽|
+| 13:00 - 14:00 | End of workshop     |
+| 16:00 - 17:00 | End of workshop     |
+
+:::

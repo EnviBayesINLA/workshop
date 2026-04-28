@@ -1,0 +1,29 @@
+---
+title: "Organising Comittee"
+title-block-banner: "#00000000"
+title-block-banner-color: "black"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      #title-block-header {
+        background-image: url(images/uofgcoss_cover.jpg);
+        background-size: cover;
+        background-position-y: center;
+        height: 200px;
+      }
+      </style>
+---
+
+## Local Organising Committee
+
+- Daniela Castro-Camilo (University of Glasgow)
+
+## Scientific Committee
+
+- 

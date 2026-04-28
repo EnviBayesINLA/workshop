@@ -1,0 +1,32 @@
+{
+    "id": "38E9C9B1",
+    "path": "~/EnviBayesINLA/conference/website/index.qmd",
+    "project_path": "index.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1777380487041.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "794:10",
+        "docOutlineVisible": "1",
+        "cursorPosition": "3,0",
+        "scrollLine": "0",
+        "chunk_output_type": "console"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1777389807,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1777389807583,
+    "read_only": false,
+    "read_only_alternatives": []
+}
