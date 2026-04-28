@@ -3,7 +3,7 @@
     "path": "~/EnviBayesINLA/conference/website/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1583056464",
     "contents": "",
     "dirty": false,
     "created": 1777380487041.0,
@@ -17,16 +17,16 @@
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "794:10",
         "docOutlineVisible": "1",
-        "cursorPosition": "3,0",
+        "cursorPosition": "26,0",
         "scrollLine": "0",
         "chunk_output_type": "console"
     },
     "folds": "",
-    "lastKnownWriteTime": 1777389807,
+    "lastKnownWriteTime": 1777390168,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1777389807583,
+    "last_content_update": 1777390168967,
     "read_only": false,
     "read_only_alternatives": []
 }

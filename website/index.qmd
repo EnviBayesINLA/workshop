@@ -24,6 +24,7 @@ format:
     mainfont: "12"
 editor_options: 
   chunk_output_type: console
+embed-resources: true
 ---
 
 

@@ -18,6 +18,7 @@ include-in-header:
         height: 200px;
       }
       </style>
+embed-resources: true
 ---
 
 ## Schedule {#schedule-tabs}
