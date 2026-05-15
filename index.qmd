@@ -4,21 +4,21 @@ subtitle: "Glasgow, UK"
 title-block-banner: "#00000000"
 title-block-banner-color: "black"
 include-in-header:
+      }
+      .quarto-title-block .quarto-title-banner {
   - text: |
       <style>
       #title-block-header.quarto-title-block.default .quarto-title-meta {
-        color: #ffffff;
-      }
-      .quarto-title-block .quarto-title-banner {
-        height: 0;
       }
       #title-block-header {
+      }
+      </style>
+        color: #ffffff;
+        height: 0;
         background-image: url(images/uofgcoss_cover.jpg);
         background-size: cover;
         background-position-y: center;
         height: 200px;
-      }
-      </style>
 format: 
   html:
     mainfont: "12"
