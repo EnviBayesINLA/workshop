@@ -3,12 +3,16 @@
     "index.html": "940d41df"
   },
   "schedules.qmd": {
-    "schedules.html": "4a440237"
+    "schedules.html": "4a440237",
+    "schedules.tex": "8feaca4d"
   },
   "workshops.qmd": {
     "workshops.html": "b530fc76"
   },
   "organisers.qmd": {
     "organisers.html": "2ec61387"
+  },
+  "accommodation.qmd": {
+    "accommodation.html": "f6db005c"
   }
 }

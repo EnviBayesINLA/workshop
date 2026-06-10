@@ -23,7 +23,16 @@ embed-resources: true
 
 ## Local Organising Committee
 
-- Daniela Castro-Camilo (University of Glasgow)
+- Daniela Castro-Camilo 
+- Jafet Belmont Osuna 
+- Claire Miller
+- Marian Scott
+- Craig Wilkie
+- Craig Anderson
+- Duncan Lee
+- Archer Gong Zhang
+- Janine Illian
+
 
 ## Scientific Committee
 

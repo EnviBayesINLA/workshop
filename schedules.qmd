@@ -1,41 +1,11 @@
 ---
 title: "Programme"
-subtitle: "EnviBayes / INLA Workshop 2027 · Glasgow, UK"
+subtitle: "EnviBayes - INLA Workshop 2027 · Glasgow, UK"
 title-block-banner: "#00000000"
 title-block-banner-color: "black"
-other-formats:
-  pdf:
-    documentclass: article
-    geometry:
-      - top=2.2cm
-      - bottom=2.2cm
-      - left=2.5cm
-      - right=2.5cm
-    fontsize: 11pt
-    colorlinks: true
-    linkcolor: "teal"
-    urlcolor: "teal"
-    include-in-header:
-      text: |
-        \usepackage{booktabs}
-        \usepackage{longtable}
-        \usepackage{xcolor}
-        \usepackage{colortbl}
-        \definecolor{teal}{HTML}{1B4F5E}
-        \definecolor{amber}{HTML}{E8892B}
-        \definecolor{tealpale}{HTML}{EFF7FA}
-        \usepackage{fancyhdr}
-        \pagestyle{fancy}
-        \fancyhf{}
-        \renewcommand{\headrulewidth}{1pt}
-        \renewcommand{\headrule}{\hbox to\headwidth{\color{teal}\leaders\hrule height \headrulewidth\hfill}}
-        \fancyhead[L]{\small\color{teal}\textbf{EnviBayes / INLA Workshop 2027}}
-        \fancyhead[R]{\small\color{gray}University of Glasgow}
-        \fancyfoot[C]{\small\color{gray}envibayesinla.github.io/workshop}
-        \fancyfoot[R]{\small\thepage}
-        \usepackage{titlesec}
-        \titleformat{\section}{\large\bfseries\color{teal}}{}{0em}{}[\textcolor{amber}{\titlerule[2pt]}]
-        \titlespacing{\section}{0pt}{1.2em}{0.6em}
+format:
+  html: default
+  pdf: default
 embed-resources: true
 ---
 
@@ -157,4 +127,4 @@ Dress code guidance will be sent to registered participants closer to the event.
 :::
 
 
-<!-- {{< downloadthis EnviBayes_INLA_2027_Programme.pdf dname="EnviBayes_INLA_2027_Programme.pdf" label="Download programme as PDF" icon="database-fill-down" type="info" >}} -->
+{{< downloadthis schedules.pdf dname="EnviBayes_INLA_2027_Programme" label="Download programme as PDF" icon="database-fill-down" type="info" >}}
