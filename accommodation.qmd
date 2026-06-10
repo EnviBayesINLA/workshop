@@ -73,6 +73,8 @@ The closest Subway station to the main University campus is **Hillhead**. For Ci
 
 Delegates are advised to **book early** to guarantee availability at their preferred hotel.
 
+{{< downloadthis AccommodationSheetUoG.pdf dname="Accomodation Glasgow" label="Download Accomodation details PDF" icon="database-fill-down" type="info" >}}
+
 ### West End hotels (walking distance to campus)
 
 ::: hotel-grid

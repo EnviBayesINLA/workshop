@@ -3,7 +3,7 @@
     "path": "~/EnviBayesINLA/conference/workshop/schedules.qmd",
     "project_path": "schedules.qmd",
     "type": "quarto_markdown",
-    "hash": "2166785233",
+    "hash": "2479019971",
     "contents": "",
     "dirty": false,
     "created": 1777381987163.0,
@@ -15,7 +15,7 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "2,22",
+        "cursorPosition": "12,5",
         "scrollLine": "0",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "29:0",
@@ -23,11 +23,11 @@
         "quartoPreviewFormat": "pdf"
     },
     "folds": "",
-    "lastKnownWriteTime": 1781083184,
+    "lastKnownWriteTime": 1781086849,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1781083184872,
+    "last_content_update": 1781086849415,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -4,21 +4,23 @@ subtitle: "Glasgow, UK"
 title-block-banner: "#00000000"
 title-block-banner-color: "black"
 include-in-header:
-      }
-      .quarto-title-block .quarto-title-banner {
   - text: |
       <style>
-      #title-block-header.quarto-title-block.default .quarto-title-meta {
-      }
       #title-block-header {
-      }
-      </style>
-        color: #ffffff;
-        height: 0;
         background-image: url(images/uofgcoss_cover.jpg);
         background-size: cover;
         background-position-y: center;
         height: 200px;
+      }
+
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+      }
+
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      </style>
 format: 
   html:
     mainfont: "12"
@@ -27,7 +29,7 @@ editor_options:
 embed-resources: true
 ---
 
-Welcome to the EnviBayes/INLA workshop 2027
+Welcome to the EnviBayes-INLA workshop 2027
 
 ::: {.callout-warning appearance="minimal" icon="false"}
 **Abstract submission** now open - submit [here](https://github.com/EnviBayesINLA/workshop/docs)

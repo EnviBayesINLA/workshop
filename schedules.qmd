@@ -9,9 +9,8 @@ format:
 embed-resources: true
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     HTML VERSION  (tabs, banner, callout)
-     ═══════════════════════════════════════════════════════════ -->
+
+     
 
 ::: {.content-visible when-format="html"}
 
@@ -71,6 +70,8 @@ Hosted at the historic **Glasgow City Chambers**, George Square G2 1DU.
 
 :::
 
+
+
 :::
 
 <!-- ═══════════════════════════════════════════════════════════
@@ -127,4 +128,4 @@ Dress code guidance will be sent to registered participants closer to the event.
 :::
 
 
-{{< downloadthis schedules.pdf dname="EnviBayes_INLA_2027_Programme" label="Download programme as PDF" icon="database-fill-down" type="info" >}}
+
