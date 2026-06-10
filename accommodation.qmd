@@ -1,0 +1,230 @@
+---
+title: "Venue & Travel"
+title-block-banner: "#00000000"
+title-block-banner-color: "black"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #ffffff;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0;
+      }
+      #title-block-header {
+        background-image: url(images/uofgcoss_cover.jpg);
+        background-size: cover;
+        background-position-y: center;
+        height: 200px;
+      }
+
+      /* ── section utility ────────────────────────────────────────────── */
+      .coming-soon {
+        background: #f8f9fa;
+        border: 2px dashed #ced4da;
+        border-radius: 8px;
+        padding: 1.5rem 2rem;
+        color: #6c757d;
+        font-style: italic;
+        margin-top: 0.5rem;
+      }
+      .coming-soon p { margin: 0; }
+
+      /* hotel cards */
+      .hotel-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+        gap: 1rem;
+        margin-top: 1rem;
+      }
+      .hotel-card {
+        border: 1px solid #dee2e6;
+        border-radius: 8px;
+        padding: 1rem 1.2rem;
+        background: #fff;
+      }
+      .hotel-card h4 { margin: 0 0 0.3rem 0; font-size: 1rem; }
+      .hotel-card .badge {
+        display: inline-block;
+        font-size: 0.72rem;
+        font-weight: 600;
+        padding: 2px 8px;
+        border-radius: 4px;
+        margin-bottom: 0.5rem;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+      }
+      .badge-west  { background: #d4edda; color: #155724; }
+      .badge-city  { background: #cce5ff; color: #004085; }
+      .hotel-card p { font-size: 0.88rem; color: #495057; margin: 0.3rem 0 0; }
+      </style>
+embed-resources: true
+---
+
+This page brings together practical information to help you plan your visit to Glasgow for the EnviBayes/INLA workshop. Sections marked *coming soon* will be updated as details are confirmed — check back closer to the event.
+
+---
+
+## 🏨 Accommodation {#accommodation}
+
+The University of Glasgow is situated in the **West End**, with a variety of small hotels and guest houses nearby, as well as easy links to City Centre hotels via the Subway.
+
+The closest Subway station to the main University campus is **Hillhead**. For City Centre hotels, the closest stations are **Buchanan Street** and **St. Enoch**. The journey between the West End and City Centre takes around 10 minutes by Subway.
+
+Delegates are advised to **book early** to guarantee availability at their preferred hotel.
+
+### West End hotels (walking distance to campus)
+
+::: hotel-grid
+
+::: hotel-card
+#### Glasgow Grosvenor Hotel
+::: badge-west
+West End
+:::
+Great Western Road, close to campus. [Book →](https://www.booking.com/hotel/gb/glasgowgrosvenor.en-gb.html)
+:::
+
+::: hotel-card
+#### Hotel Du Vin
+::: badge-west
+West End
+:::
+Stylish boutique hotel in the West End. [Book →](https://www.hotelduvin.com/locations/glasgow/)
+:::
+
+::: hotel-card
+#### Leonardo Inn Glasgow West End
+::: badge-west
+West End
+:::
+Comfortable, well-priced option near the university. [Book →](https://www.leonardohotels.co.uk/hotels/glasgow/leonardo-inn-glasgow-west-end)
+:::
+
+:::
+
+### City Centre hotels (~10 min by Subway)
+
+::: hotel-grid
+
+::: hotel-card
+#### DoubleTree by Hilton (Cowcaddens)
+::: badge-city
+City Centre
+:::
+Close to Cowcaddens station. [Book →](https://www.hilton.com/en/hotels/glasdidi-doubletree-glasgow-central/)
+:::
+
+::: hotel-card
+#### Carlton George
+::: badge-city
+City Centre
+:::
+Near Queen Street station. [Book →](https://www.carltonhotelcollection.com/carlton-george-hotel-glasgow/)
+:::
+
+::: hotel-card
+#### Premier Suites George Square
+::: badge-city
+City Centre
+:::
+Spacious apart-hotel by George Square. [Book →](https://www.premiersuites.com/locations/uk/glasgow/)
+:::
+
+::: hotel-card
+#### Native Glasgow
+::: badge-city
+City Centre
+:::
+Contemporary aparthotel near Buchanan Street. [Book →](https://www.nativeplaces.com/glasgow/)
+:::
+
+::: hotel-card
+#### AC by Marriott (Buchanan Street)
+::: badge-city
+City Centre
+:::
+Modern hotel in the city centre. [Book →](https://www.marriott.com/en-gb/hotels/glabr-ac-hotel-glasgow/overview/)
+:::
+
+::: hotel-card
+#### Premier Inn St Enoch Square
+::: badge-city
+City Centre
+:::
+Good-value option right at St. Enoch. [Book →](https://www.premierinn.com/gb/en/hotels/scotland/strathclyde/glasgow/glasgow-city-centre-george-square.html)
+:::
+
+::: hotel-card
+#### Motel One
+::: badge-city
+City Centre
+:::
+Budget-friendly, central location. [Book →](https://www.motel-one.com/en/hotels/glasgow/)
+:::
+
+::: hotel-card
+#### Yotel Glasgow
+::: badge-city
+City Centre
+:::
+Compact, stylish rooms in the city centre. [Book →](https://www.yotel.com/en/hotels/yotel-glasgow)
+:::
+
+::: hotel-card
+#### Radisson Blu
+::: badge-city
+City Centre
+:::
+Full-service hotel near Argyle Street. [Book →](https://www.radissonhotels.com/en-us/hotels/radisson-blu-glasgow)
+:::
+
+::: hotel-card
+#### Leonardo Royal Hotel
+::: badge-city
+City Centre
+:::
+Large hotel close to the city centre. [Book →](https://www.leonardohotels.co.uk/hotels/glasgow/leonardo-royal-hotel-glasgow)
+:::
+
+::: hotel-card
+#### Clayton Hotel
+::: badge-city
+City Centre
+:::
+Modern hotel convenient for the Subway. [Book →](https://www.claytonhotels.com/glasgow/)
+:::
+
+:::
+
+---
+
+## ✈️ Getting to Glasgow {#travel}
+
+::: coming-soon
+<p>**Travel information coming soon.** This section will include guidance on arriving by air (Glasgow International and Edinburgh airports), rail connections to Glasgow Central and Queen Street stations, and intercity coach services. Check back closer to the event.</p>
+:::
+
+---
+
+## 🚇 Getting Around Glasgow {#getting-around}
+
+::: coming-soon
+<p>**Local transport guidance coming soon.** This section will cover the Glasgow Subway (SPT), local bus services, cycling, and walking routes between key conference locations. A map of the campus and nearby amenities will also be included.</p>
+:::
+
+---
+
+## ♿ Accessibility {#accessibility}
+
+::: coming-soon
+<p>**Accessibility information coming soon.** This section will include details on step-free access to conference venues, quiet spaces, dietary accommodation, and how to contact the organisers with specific requirements. We are committed to making this event as accessible as possible.</p>
+:::
+
+---
+
+## 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Exploring Glasgow {#tourist-info}
+
+::: coming-soon
+<p>**Visitor recommendations coming soon.** Glasgow has a thriving arts, food, and music scene. This section will feature organiser-curated suggestions for restaurants, museums, day trips, and excursions to make the most of your time in the city.</p>
+:::

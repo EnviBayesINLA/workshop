@@ -6,6 +6,7 @@ project:
   - schedules.qmd
   - workshops.qmd
   - organisers.qmd
+  - accommodation.qmd
 website:
   title: EnviBayes/INLA workshop
   navbar:
@@ -25,6 +26,8 @@ website:
       href: organisers.qmd
     - text: Programme
       href: schedules.qmd
+    - text: Venue & Travel
+      href: accommodation.qmd
 format:
   html:
     theme: flatly
