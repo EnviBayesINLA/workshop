@@ -22,7 +22,7 @@ embed-resources: true
 ---
 
 
-The following workshops will be delivered at the EnviBayes-INLA workshop on the 21/06/2027 at the School of Mathematics & Statistics.
+The following workshops will be delivered prior to the EnviBayes-INLA workshop on the 21/06/2027 at the School of Mathematics & Statistics.
 
 **Example**
 
@@ -30,7 +30,7 @@ The following workshops will be delivered at the EnviBayes-INLA workshop on the 
 ## INLA AND BEYOND: Bayesian Hierarchical Modelling with `inlabru` 
 
 \
-**Jafet Belmont Osuna\*,** University of Glasgow\
+**Jafet Belmont Osuna\*,** University of Glasgow
 \
 
 INLA, a powerful tool for efficiently fitting complex spatial models, comes with a steep learning curve. This workshop introduces `inlabru` – a user-friendly interface to INLA. Learn to specify models intuitively, handle spatial data efficiently, and focus on data structures and interpretation relevant to ecology, rather than computational complexity!

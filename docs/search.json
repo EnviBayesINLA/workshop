@@ -46,19 +46,19 @@
     "href": "workshops.html",
     "title": "Workshop Descriptions",
     "section": "",
-    "text": "The following workshops will be delivered at the EnviBayes-INLA workshop on the 21/06/2027 at the School of Mathematics & Statistics.\nExample\n\n\n\n\n\n\nNoteINLA AND BEYOND: Bayesian Hierarchical Modelling with inlabru\n\n\n\n\nJafet Belmont Osuna*, University of Glasgow\n\n\nINLA, a powerful tool for efficiently fitting complex spatial models, comes with a steep learning curve. This workshop introduces inlabru – a user-friendly interface to INLA. Learn to specify models intuitively, handle spatial data efficiently, and focus on data structures and interpretation relevant to ecology, rather than computational complexity!\nDuration : 4 hours\nTime: TBC"
+    "text": "The following workshops will be delivered prior to the EnviBayes-INLA workshop on the 21/06/2027 at the School of Mathematics & Statistics.\nExample\n\n\n\n\n\n\nNoteINLA AND BEYOND: Bayesian Hierarchical Modelling with inlabru\n\n\n\n\nJafet Belmont Osuna*, University of Glasgow\n\nINLA, a powerful tool for efficiently fitting complex spatial models, comes with a steep learning curve. This workshop introduces inlabru – a user-friendly interface to INLA. Learn to specify models intuitively, handle spatial data efficiently, and focus on data structures and interpretation relevant to ecology, rather than computational complexity!\nDuration : 4 hours\nTime: TBC"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "EnviBayes/INLA workshop 2027",
+    "title": "EnviBayes-INLA workshop 2027",
     "section": "",
-    "text": "Welcome to the EnviBayes-INLA workshop 2027\nWelcome to EnviBayes/INLA workshop…add description of the workshop including:"
+    "text": "Welcome to the EnviBayes-INLA workshop 2027\nThe EnviBayes-INLA workshop…add description of the workshop including:"
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
-    "title": "EnviBayes/INLA workshop 2027",
+    "title": "EnviBayes-INLA workshop 2027",
     "section": "Contact",
     "text": "Contact\nQuestions about the conference? Join the discussion on GitHub."
   },

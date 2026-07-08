@@ -1,5 +1,5 @@
 ---
-title: "EnviBayes/INLA workshop 2027"
+title: "EnviBayes-INLA workshop 2027"
 subtitle: "22/06/2027 Glasgow, UK"
 title-block-banner: "#00000000"
 title-block-banner-color: "black"
@@ -32,12 +32,13 @@ embed-resources: true
 Welcome to the EnviBayes-INLA workshop 2027
 
 ::: {.callout-warning appearance="minimal" icon="false"}
-**Abstract submission** now open - submit [here](https://github.com/EnviBayesINLA/workshop/docs)
+**Abstract submission** now open - submit [here](https://github.com/EnviBayesINLA/workshop/docs) 
+<!-- update link with google form -->
 
 **Deadline**: XXXX
 :::
 
-Welcome to EnviBayes/INLA workshop...`add description of the workshop including:`
+The EnviBayes-INLA workshop...`add description of the workshop including:`
 
 - First joint event between EnviBayes and INLA
 - talks, posters and workshops, a broad range of topics are covered
