@@ -9,25 +9,17 @@ format:
 embed-resources: true
 ---
 
+::: callout-note
+Workshop full programme will be added here soon.
+:::
 
-     
+::: {.callout-note appearance="minimal" icon="false"}
+## 💻 Pre-conference tutorials
 
-::: {.content-visible when-format="html"}
+Pre-conference tutorials will take place at the [School of Maths & Stats](accomodation.qmd#venue)
 
-## Schedule {#schedule-tabs}
-
-::: panel-tabset
-
-### Pre-Conference Workshops & Welcome
-
-| Time | Activity |
-|:----------------|:--------------------------------------|
-| 10:00 – 10:30 | Workshop (TBC) |
-| 10:30 – 11:30 | Workshop (TBC) |
-| 11:30 – 13:00 | Workshop (TBC) |
-| 13:00 – 14:30 | **Lunch break** 🍽️ |
-| 14:00 – 15:00 | Workshop (TBC) |
-| 15:00 – 20:00 | **Welcome Drinks & Civic Reception** 🥂 |
+Please refer to the [pre-workshop section](workshops.qmd) for specific further details.
+:::
 
 ::: {.callout-note appearance="minimal" icon="false"}
 ## 🏛️ Civic Reception — Glasgow City Chambers
@@ -38,94 +30,90 @@ Hosted at the historic **Glasgow City Chambers**, George Square G2 1DU.
 *Dress code guidance will be sent to registered participants closer to the event.*
 :::
 
-### Day 1
+<!-- :::: {.content-visible when-format="html"} -->
+<!-- ## Schedule {#schedule-tabs} -->
 
-| Time | Topic |
-|:----------------|:--------------------------------------|
-| 09:00 – 10:00 | **Keynote Speaker** |
-| 10:00 – 12:00 | Invited Talks |
-| 12:00 – 13:00 | **Lunch** 🍽 |
-| 13:00 – 16:00 | Contributed Talks |
-| 16:00 – 18:00 | Poster Session |
+<!-- ::: panel-tabset -->
+<!-- ### Day 1 -->
 
-### Day 2
+<!-- | Time          | Topic               | -->
+<!-- |:--------------|:--------------------| -->
+<!-- | 09:00 – 10:00 | **Keynote Speaker** | -->
+<!-- | 10:00 – 12:00 | Invited Talks       | -->
+<!-- | 12:00 – 13:00 | **Lunch** 🍽         | -->
+<!-- | 13:00 – 16:00 | Contributed Talks   | -->
+<!-- | 16:00 – 18:00 | Poster Session      | -->
 
-| Time | Topic |
-|:----------------|:--------------------------------------|
-| 09:00 – 10:00 | **Keynote Speaker** |
-| 10:00 – 12:00 | Talks |
-| 12:00 – 13:00 | **Lunch** 🍽 |
-| 13:00 – 16:00 | Talks |
-| 16:00 – 18:00 | **Keynote Speaker** |
+<!-- ### Day 2 -->
 
-### Day 3
+<!-- | Time          | Topic               | -->
+<!-- |:--------------|:--------------------| -->
+<!-- | 09:00 – 10:00 | **Keynote Speaker** | -->
+<!-- | 10:00 – 12:00 | Talks               | -->
+<!-- | 12:00 – 13:00 | **Lunch** 🍽         | -->
+<!-- | 13:00 – 16:00 | Talks               | -->
+<!-- | 16:00 – 18:00 | **Keynote Speaker** | -->
 
-| Time | Topic |
-|:----------------|:--------------------------------------|
-| 09:00 – 10:00 | **Keynote Speaker** |
-| 10:00 – 12:00 | Talks |
-| 12:00 – 13:00 | **Lunch** 🍽 |
-| 13:00 – 14:00 | Closing Remarks |
-| 16:00 – 17:00 | End of Workshop |
+<!-- ### Day 3 -->
 
-:::
+<!-- | Time          | Topic               | -->
+<!-- |:--------------|:--------------------| -->
+<!-- | 09:00 – 10:00 | **Keynote Speaker** | -->
+<!-- | 10:00 – 12:00 | Talks               | -->
+<!-- | 12:00 – 13:00 | **Lunch** 🍽         | -->
+<!-- | 13:00 – 14:00 | Closing Remarks     | -->
+<!-- | 16:00 – 17:00 | End of Workshop     | -->
+<!-- | 19:00 – 22:00 | Social Event at GUU | -->
+<!-- ::: -->
+<!-- :::: -->
 
+<!-- ```{=html} -->
+<!-- <!-- ═══════════════════════════════════════════════════════════ -->
+<!--      PDF VERSION  (flat sections, no tabs, no emojis) -->
+<!--      ═══════════════════════════════════════════════════════════ --> -->
+<!-- ``` -->
 
+<!-- ::: {.content-visible when-format="pdf"} -->
+<!-- # Pre-Conference Workshops & Welcome Reception -->
 
-:::
+<!-- | Time           | Activity                             | -->
+<!-- |:---------------|:-------------------------------------| -->
+<!-- | 10:00 -- 10:30 | Workshop (TBC)                       | -->
+<!-- | 10:30 -- 11:30 | Workshop (TBC)                       | -->
+<!-- | 11:30 -- 13:00 | Workshop (TBC)                       | -->
+<!-- | 13:00 -- 14:30 | *Lunch break*                        | -->
+<!-- | 14:00 -- 15:00 | Workshop (TBC)                       | -->
+<!-- | 15:00 -- 20:00 | **Welcome Drinks & Civic Reception** | -->
 
-<!-- ═══════════════════════════════════════════════════════════
-     PDF VERSION  (flat sections, no tabs, no emojis)
-     ═══════════════════════════════════════════════════════════ -->
+<!-- **Civic Reception venue:** Glasgow City Chambers, George Square, Glasgow G2 1DU. A short walk from Buchanan Street and Queen Street stations. Dress code guidance will be sent to registered participants closer to the event. -->
 
-::: {.content-visible when-format="pdf"}
+<!-- # Day 1 -->
 
-# Pre-Conference Workshops & Welcome Reception
+<!-- | Time           | Topic               | -->
+<!-- |:---------------|:--------------------| -->
+<!-- | 09:00 -- 10:00 | **Keynote Speaker** | -->
+<!-- | 10:00 -- 12:00 | Invited Talks       | -->
+<!-- | 12:00 -- 13:00 | *Lunch*             | -->
+<!-- | 13:00 -- 16:00 | Contributed Talks   | -->
+<!-- | 16:00 -- 18:00 | Poster Session      | -->
 
-| Time | Activity |
-|:----------------|:--------------------------------------|
-| 10:00 -- 10:30 | Workshop (TBC) |
-| 10:30 -- 11:30 | Workshop (TBC) |
-| 11:30 -- 13:00 | Workshop (TBC) |
-| 13:00 -- 14:30 | *Lunch break* |
-| 14:00 -- 15:00 | Workshop (TBC) |
-| 15:00 -- 20:00 | **Welcome Drinks & Civic Reception** |
+<!-- # Day 2 -->
 
-**Civic Reception venue:** Glasgow City Chambers, George Square, Glasgow G2 1DU.
-A short walk from Buchanan Street and Queen Street stations.
-Dress code guidance will be sent to registered participants closer to the event.
+<!-- | Time           | Topic               | -->
+<!-- |:---------------|:--------------------| -->
+<!-- | 09:00 -- 10:00 | **Keynote Speaker** | -->
+<!-- | 10:00 -- 12:00 | Talks               | -->
+<!-- | 12:00 -- 13:00 | *Lunch*             | -->
+<!-- | 13:00 -- 16:00 | Talks               | -->
+<!-- | 16:00 -- 18:00 | **Keynote Speaker** | -->
 
-# Day 1
+<!-- # Day 3 -->
 
-| Time | Topic |
-|:----------------|:--------------------------------------|
-| 09:00 -- 10:00 | **Keynote Speaker** |
-| 10:00 -- 12:00 | Invited Talks |
-| 12:00 -- 13:00 | *Lunch* |
-| 13:00 -- 16:00 | Contributed Talks |
-| 16:00 -- 18:00 | Poster Session |
-
-# Day 2
-
-| Time | Topic |
-|:----------------|:--------------------------------------|
-| 09:00 -- 10:00 | **Keynote Speaker** |
-| 10:00 -- 12:00 | Talks |
-| 12:00 -- 13:00 | *Lunch* |
-| 13:00 -- 16:00 | Talks |
-| 16:00 -- 18:00 | **Keynote Speaker** |
-
-# Day 3
-
-| Time | Topic |
-|:----------------|:--------------------------------------|
-| 09:00 -- 10:00 | **Keynote Speaker** |
-| 10:00 -- 12:00 | Talks |
-| 12:00 -- 13:00 | *Lunch* |
-| 13:00 -- 14:00 | Closing Remarks |
-| 16:00 -- 17:00 | End of Workshop |
-
-:::
-
-
-
+<!-- | Time           | Topic               | -->
+<!-- |:---------------|:--------------------| -->
+<!-- | 09:00 -- 10:00 | **Keynote Speaker** | -->
+<!-- | 10:00 -- 12:00 | Talks               | -->
+<!-- | 12:00 -- 13:00 | *Lunch*             | -->
+<!-- | 13:00 -- 14:00 | Closing Remarks     | -->
+<!-- | 16:00 -- 17:00 | End of Workshop     | -->
+<!-- ::: -->

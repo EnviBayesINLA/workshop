@@ -1,13 +1,13 @@
 ---
 title: "EnviBayes/INLA workshop 2027"
-subtitle: "Glasgow, UK"
+subtitle: "22/06/2027 Glasgow, UK"
 title-block-banner: "#00000000"
 title-block-banner-color: "black"
 include-in-header:
   - text: |
       <style>
       #title-block-header {
-        background-image: url(images/uofgcoss_cover.jpg);
+        background-image: url(images/Glasgow_Cityscape.jpg);
         background-size: cover;
         background-position-y: center;
         height: 200px;
@@ -104,7 +104,7 @@ Welcome to EnviBayes/INLA workshop...`add description of the workshop including:
 
 ::::::
 
-## Contact
+## Contact {}
 
 Questions about the conference? Join the discussion on [GitHub](https://github.com/EnviBayesINLA/workshop/discussions).
 

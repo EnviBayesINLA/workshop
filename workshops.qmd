@@ -1,7 +1,7 @@
 ---
 title: "Workshop Descriptions"
 title-block-banner: "#00000000"
-title-block-banner-color: "black"
+title-block-banner-color: "white"
 include-in-header:
   - text: |
       <style>
@@ -12,7 +12,7 @@ include-in-header:
         height: 0;
       }
       #title-block-header {
-        background-image: url(images/uofgcoss_cover.jpg);
+        background-image: url(images/River_Clyde.jpg);
         background-size: cover;
         background-position-y: center;
         height: 200px;
@@ -22,7 +22,7 @@ embed-resources: true
 ---
 
 
-The following workshops will be given at the EnviBayes/INLA conference on the XXX
+The following workshops will be delivered at the EnviBayes-INLA workshop on the 21/06/2027 at the School of Mathematics & Statistics.
 
 **Example**
 
@@ -32,5 +32,9 @@ The following workshops will be given at the EnviBayes/INLA conference on the XX
 \
 **Jafet Belmont Osuna\*,** University of Glasgow\
 \
+
 INLA, a powerful tool for efficiently fitting complex spatial models, comes with a steep learning curve. This workshop introduces `inlabru` – a user-friendly interface to INLA. Learn to specify models intuitively, handle spatial data efficiently, and focus on data structures and interpretation relevant to ecology, rather than computational complexity!
+
+**Duration :** 4 hours \
+**Time**: TBC
 :::
