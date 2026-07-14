@@ -101,17 +101,23 @@ h2::after {
 }
 
 .navbar-logo {
-  max-height: 58px;
+  max-height: 100px;
   margin-right: 0.5rem;
 }
 
+
+
 /* ── Hero banner (title block) ───────────────────────────────────── */
 #title-block-header {
-  background-image: url(images/Cloisters at Glasgow University.jpg);
+  position: relative;
+  height: 220px;
+  overflow: hidden;
+}
+
+#title-block-header .quarto-title-banner {
+  height: 220px;
   background-size: cover;
   background-position-y: center;
-  height: 220px;
-  position: relative;
 }
 
 #title-block-header::after {
@@ -124,10 +130,7 @@ h2::after {
     rgba(27,79,94,0.45) 60%,
     rgba(232,137,43,0.18) 100%
   );
-}
-
-#title-block-header .quarto-title-banner {
-  height: 0;
+  z-index: 1;
 }
 
 #title-block-header.quarto-title-block.default .quarto-title-meta,
@@ -144,9 +147,6 @@ h2::after {
   padding-bottom: 3rem;
 }
 
-.quarto-container {
-  max-width: 900px;
-}
 
 /* ── Horizontal rules ────────────────────────────────────────────── */
 hr {

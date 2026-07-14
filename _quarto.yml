@@ -10,7 +10,7 @@ project:
 website:
   title: EnviBayes/INLA workshop
   navbar:
-    logo: images/INLA_logo.png
+    logo: images/EnviBayes-INLA_workshop_logo.png
     left:
     - text: Home
       menu:
@@ -34,6 +34,7 @@ format:
     respect-user-color-scheme: false
     toc: true
     toc-location: right
-    toc-depth: 3    
+    toc-depth: 3
+    css: styles.css   
 execute:
   freeze: auto

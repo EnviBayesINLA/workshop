@@ -1,10 +1,34 @@
 ---
 title: "Programme"
-subtitle: "EnviBayes - INLA Workshop 2027 · Glasgow, UK"
 title-block-banner: "#00000000"
-title-block-banner-color: "black"
+title-block-banner-color: "white"
 format:
-  html: default
+  html:
+    include-in-header:
+      - text: |
+          <style>
+          #title-block-header {
+            background-image: url(images/Cloisters at Glasgow University.jpg);
+            background-size: cover;
+            background-position: center;
+            height: 250px;
+          }
+          /* Title */
+          .quarto-title-block .title {
+            font-size: 3.5rem !important;
+            font-weight: 700;
+            color: white;
+          }
+          /* Subtitle */
+          .quarto-title-block .subtitle {
+            font-size: 1.6rem !important;
+            color: white;
+          }
+          /* Metadata (if any) */
+          #title-block-header.quarto-title-block.default .quarto-title-meta {
+            color: white;
+          }
+          </style>
   pdf: default
 embed-resources: true
 ---

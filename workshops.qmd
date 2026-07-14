@@ -9,7 +9,7 @@ include-in-header:
       <style>
 
       #title-block-header {
-        background-image: url(images/River_Clyde.jpg);
+        background-image: url(images/Cityscape.jpg);
         background-size: cover;
         background-position: center;
         height: 250px;

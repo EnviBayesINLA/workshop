@@ -2,7 +2,7 @@
 title: "EnviBayes-INLA workshop"
 subtitle: "22–24 June 2027 • Glasgow, UK"
 title-block-banner: "#00000000"
-title-block-banner-color: "black"
+title-block-banner-color: "white"
 
 include-in-header:
   - text: |
