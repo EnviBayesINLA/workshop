@@ -20,6 +20,10 @@ include-in-header:
       .quarto-title-block .quarto-title-banner {
         height: 0;
       }
+      
+      .quarto-title-block .title {
+        font-size: 3rem !important;
+      }
 
       /* ── section utility ────────────────────────────────────────────── */
       

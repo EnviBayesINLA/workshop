@@ -5,20 +5,41 @@ title-block-banner-color: "white"
 include-in-header:
   - text: |
       <style>
-      #title-block-header.quarto-title-block.default .quarto-title-meta {
-        color: #ffffff;
-      }
-      .quarto-title-block .quarto-title-banner {
-        height: 0;
-      }
+
       #title-block-header {
-        background-image: url(images/Cityscape.jpg);
+        background-image: url(images/Glasgow_Cityscape.jpg);
         background-size: cover;
-        background-position-y: center;
-        height: 200px;
+        background-position: center;
+        height: 250px;
       }
+
+      /* Title */
+      .quarto-title-block .title {
+        font-size: 3.5rem !important;
+        font-weight: 700;
+        color: white;
+      }
+
+      /* Subtitle */
+      .quarto-title-block .subtitle {
+        font-size: 1.6rem !important;
+        color: white;
+      }
+
+      /* Metadata (if any) */
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: white;
+      }
+
       </style>
-embed-resources: true
+
+format:
+  html:
+    embed-resources: true
+
+editor_options:
+  chunk_output_type: console
+
 ---
 
 ## Organising Committee
@@ -37,4 +58,8 @@ embed-resources: true
 
 ## Scientific Committee
 
-
+- [Marian Scott](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/escott/)
+- [Craig Anderson](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/craiganderson/)
+- [Janine Illian](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/janinei)
+- [Andrew Zammit-Mangion](https://www.unsw.edu.au/staff/andrew-zammit-mangion)
+- [Eleni Matechou](https://www.seresearch.qmul.ac.uk/cpsd/people/eatechou/)

@@ -44,30 +44,30 @@
   {
     "objectID": "workshops.html",
     "href": "workshops.html",
-    "title": "Workshop Descriptions",
+    "title": "Workshops",
     "section": "",
-    "text": "The following workshops will be delivered prior to the EnviBayes-INLA workshop on the 21/06/2027 at the School of Mathematics & Statistics.\nExample\n\n\n\n\n\n\nNoteINLA AND BEYOND: Bayesian Hierarchical Modelling with inlabru\n\n\n\n\nJafet Belmont Osuna*, University of Glasgow\n\nINLA, a powerful tool for efficiently fitting complex spatial models, comes with a steep learning curve. This workshop introduces inlabru – a user-friendly interface to INLA. Learn to specify models intuitively, handle spatial data efficiently, and focus on data structures and interpretation relevant to ecology, rather than computational complexity!\nDuration : 4 hours\nTime: TBC"
+    "text": "The following workshops will be delivered prior to the EnviBayes-INLA workshop on the 21/06/2027.\n\n\n\n\n\n\nNoteINLA AND BEYOND: Bayesian Hierarchical Modelling with inlabru\n\n\n\n\nJafet Belmont Osuna, University of Glasgow\n\nINLA, a powerful tool for efficiently fitting complex spatial models, comes with a steep learning curve. This workshop introduces inlabru – a user-friendly interface to INLA. Learn to specify models intuitively, handle spatial data efficiently, and focus on data structures and interpretation relevant to ecology, rather than computational complexity!\nDuration: 4 hours\nDate: Monday 21\\(^\\text{st}\\) June, 2027\nTime: TBC\nVenue: TBC"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "EnviBayes-INLA workshop 2027",
+    "title": "EnviBayes-INLA workshop",
     "section": "",
-    "text": "Welcome to the EnviBayes-INLA workshop 2027\nThe EnviBayes-INLA workshop…add description of the workshop including:"
+    "text": "The EnviBayes–INLA Workshop 2027 is the first joint meeting between the EnviBayes and INLA workshop series, bringing together researchers developing Bayesian methods for environmental, ecological, spatial and spatio-temporal statistics. The programme will feature keynote lectures, contributed talks, poster sessions, and hands-on tutorials, covering a broad range of topics including INLA, spatial modelling, extreme value analysis, climate and weather, ecology, epidemiology, and environmental applications. The workshop builds on the success of previous EnviBayes workshops (2023, 2025) and the INLA: Past, Present and Future workshop, creating a unique opportunity for collaboration between these two vibrant research communities."
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
-    "title": "EnviBayes-INLA workshop 2027",
+    "title": "EnviBayes-INLA workshop",
     "section": "Contact",
-    "text": "Contact\nQuestions about the conference? Join the discussion on GitHub."
+    "text": "Contact\nQuestions about the conference? Join the discussion on GitHub or contact the main organisers Daniela Castro-Camilo and Jafet Belmont Osuna."
   },
   {
     "objectID": "schedules.html",
     "href": "schedules.html",
     "title": "Programme",
     "section": "",
-    "text": "Note\n\n\n\nWorkshop full programme will be added here soon.\n\n\n\n\n\n\n\n\nNote💻 Pre-conference tutorials\n\n\n\nPre-conference tutorials will take place at the School of Maths & Stats\nPlease refer to the pre-workshop section for specific further details.\n\n\n\n\n\n\n\n\nNote🏛️ Civic Reception — Glasgow City Chambers\n\n\n\nHosted at the historic Glasgow City Chambers, George Square G2 1DU.\nGetting there: Short walk from Buchanan Street and Queen Street stations.\nDress code guidance will be sent to registered participants closer to the event.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n–&gt;"
+    "text": "Note\n\n\n\nWorkshop full programme will be added here soon.\n\n\n\n\n\n\n\n\nNote💻 Pre-conference tutorials\n\n\n\nPre-conference tutorials will take place at the School of Maths & Stats\nPlease refer to the pre-workshop section for specific further details.\n\n\n\n\n\n\n\n\nNote🏛️ Civic Reception — Glasgow City Chambers\n\n\n\nHosted at the historic Glasgow City Chambers, George Square G2 1DU.\nGetting there: Short walk from Buchanan Street and Queen Street stations.\nDress code guidance will be sent to registered participants closer to the event."
   },
   {
     "objectID": "organisers.html",
@@ -88,6 +88,6 @@
     "href": "organisers.html#scientific-committee",
     "title": "Organising Comittee",
     "section": "Scientific Committee",
-    "text": "Scientific Committee"
+    "text": "Scientific Committee\n\nMarian Scott\nCraig Anderson\nJanine Illian\nAndrew Zammit-Mangion\nEleni Matechou"
   }
 ]
