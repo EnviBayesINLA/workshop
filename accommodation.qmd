@@ -11,7 +11,7 @@ include-in-header:
       }
 
       #title-block-header {
-        background-image: url(images/Cloisters at Glasgow University.jpg);
+        background-image: url(images/Arran.jpg);
         background-size: cover;
         background-position-y: center;
         height: 200px;
