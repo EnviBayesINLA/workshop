@@ -14,10 +14,13 @@ website:
     left:
     - text: Home
       menu:
-      - text: Keynote Speakers
-        href: index.qmd#keynotes
+      - text: Submission & Registration
+        href: index.qmd#regis
       - text: Important Dates 
         href: index.qmd#dates
+      - text: Keynote Speakers
+        href: index.qmd#keynotes
+  
     - text: Workshops
       href: workshops.qmd
     - text: Organisers

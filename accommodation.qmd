@@ -35,11 +35,11 @@ editor_options:
   chunk_output_type: console
 ---
 
-This page brings together practical information to help you plan your visit to Glasgow for the EnviBayes-INLA workshop. Sections marked *coming soon* will be updated as details are confirmed — check back closer to the event.
+This page brings together practical information to help you plan your visit to Glasgow for the EnviBayes-INLA workshop.
 
 ## 🏫 Venue Information {#venue}
 
-The conference will take place on the Gilmorehill Campus of the University of Glasgow.
+The workshop takes place across several buildings on the University of Glasgow's Gilmorehill Campus. To help you find your way around, the map below shows where the workshop's activities will be held, from tutorials and talks to catering and poster sessions. Building-specific details, including accessibility information, are provided below.
 
 ```{r}
 #| echo: false
@@ -63,7 +63,7 @@ leaflet() |>
     lng = -4.29338,
     lat = 55.8731,
     popup = "
-    <b>☕️ Coffee & Poster sessions ch</b><br>
+    <b>☕️ Coffee & Poster sessions </b><br>
     Wolfson Medical School Building
     "
   ) |>
@@ -86,49 +86,126 @@ leaflet() |>
 
 ```
 
-::::: columns
-::: {.column width="50%"}
-### Tutorials
 
-**School of Maths & Stats**
-
-- Pre-workshop [tutorials](workshops.qmd)
+::: {style="margin-top: 2rem;"}
 :::
 
-::: {.column width="50%"}
-### 🎤 Panel Sessions
 
-**Boyd Orr Building - LT 2**
+
+```{=html}
+<div class="modal fade" id="maths-info" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Accessibility & Emergency — School of Maths & Stats</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p><strong>Accessibility</strong></p>
+        <p>A passenger lift serves every level.</p>
+        <p>The main entrance has electric doors; they lock at 17:00, so please re-enter with a valid University ID card.</p>
+        <p><strong>In case of emergency</strong></p>
+        <p>Each staircase has a refuge area at the top for anyone who needs to wait for assistance.</p>
+        <p>The assembly point for this building is outside the British Heart Foundation Building on University Place.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="boydorr-info" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Accessibility & Emergency — Boyd Orr Building</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p><strong>Accessibility</strong></p>
+        <p>A fully step-free entrance is available from Lilybank Gardens.</p>
+        <p><strong>In case of emergency</strong></p>
+        <ul>
+          <li>Proceed calmly to the assembly point at the corner of University Avenue and Ashton Road.</li>
+          <li>An automated external defibrillator is mounted just outside the janitors' office on the ground floor.</li>
+          <li>University of Glasgow staff and students should open the SafeZone phone application to alert Security if assistance is required.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="atrium-info" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Accessibility & Emergency — Atrium, Wolfson Building</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p>The Atrium is on the ground floor and is completely step-free.</p>
+        <p>If the fire alarm sounds, leave by the nearest exit and gather at the bench area directly outside the main entrance.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="guu-info" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Accessibility & Emergency — Glasgow University Union</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p>Please visit the <a href="https://www.guu.co.uk/locationsandsustainability" target="_blank">GUU website</a> for full accessibility information.</p>
+      </div>
+    </div>
+  </div>
+</div>
+```
+
+
+
+::: {.venue-grid}
+
+::: {.venue-card}
+### School of Maths & Stats [📍](https://www.google.com/maps/search/?api=1&query=School+of+Mathematics+and+Statistics+University+of+Glasgow){target="_blank"}
+- [Pre-workshop tutorials](workshops.qmd)
+
+<button type="button" class="venue-info-link" data-bs-toggle="modal" data-bs-target="#maths-info">Accessibility & Emergency</button>
+:::
+
+::: {.venue-card}
+###  Boyd Orr Building [📍](https://www.google.com/maps/search/?api=1&query=Boyd+Orr+Building+University+of+Glasgow){target="_blank"}
 
 - Registration
 - Keynote panel sessions
 - Contributed talks
+
+<button type="button" class="venue-info-link" data-bs-toggle="modal" data-bs-target="#boydorr-info">Accessibility & Emergency</button>
 :::
-:::::
 
-::::: columns
-::: {.column width="50%"}
-### ☕ Coffee and Poster Sessions
+::: {.venue-card}
+### Atrium, Wolfson Building [📍](https://www.google.com/maps/search/?api=1&query=Wolfson+Medical+School+Building+University+of+Glasgow){target="_blank"}
 
-**Wolfson Medical School Building**
-
-- Poster Sessions
+- Poster sessions
 - Coffee and refreshments
+
+<button type="button" class="venue-info-link" data-bs-toggle="modal" data-bs-target="#atrium-info">Accessibility & Emergency</button>
 :::
 
-::: {.column width="50%"}
-### 🥳 Social Event
+::: {.venue-card}
+###  Glasgow University Union [📍](https://www.google.com/maps/search/?api=1&query=Glasgow+University+Union){target="_blank"}
 
-**Glasgow University Union (GUU)**
-
-- Join us for the workshop social event at the end of the conference
+- Social event
 - Drinks, music, and informal networking
-:::
-:::::
 
-::: coming-soon
-Information about the welcome reception — including venue, timing, and dress code — will be added here closer to the event.
+<button type="button" class="venue-info-link" data-bs-toggle="modal" data-bs-target="#guu-info">Accessibility & Emergency</button>
 :::
+
+:::
+
+
+
 
 ## 🏨 Accommodation {#accommodation}
 
@@ -140,213 +217,7 @@ Delegates are advised to **book early** to guarantee availability at their prefe
 
 {{< downloadthis AccommodationSheetUoG.pdf dname="Accomodation Glasgow" label="Download Accomodation details PDF" icon="database-fill-down" type="info" >}}
 
-<!-- ### West End hotels (walking distance to campus) -->
 
-<!-- ::::::::: hotel-grid -->
-
-<!-- :::: hotel-card -->
-
-<!-- #### Glasgow Grosvenor Hotel -->
-
-<!-- ::: badge-west -->
-
-<!-- West End -->
-
-<!-- ::: -->
-
-<!-- Great Western Road, close to campus. [Book →](https://www.booking.com/hotel/gb/glasgowgrosvenor.en-gb.html) -->
-
-<!-- :::: -->
-
-<!-- :::: hotel-card -->
-
-<!-- #### Hotel Du Vin -->
-
-<!-- ::: badge-west -->
-
-<!-- West End -->
-
-<!-- ::: -->
-
-<!-- Stylish boutique hotel in the West End. [Book →](https://www.hotelduvin.com/locations/glasgow/) -->
-
-<!-- :::: -->
-
-<!-- :::: hotel-card -->
-
-<!-- #### Leonardo Inn Glasgow West End -->
-
-<!-- ::: badge-west -->
-
-<!-- West End -->
-
-<!-- ::: -->
-
-<!-- Comfortable, well-priced option near the university. [Book →](https://www.leonardohotels.co.uk/hotels/glasgow/leonardo-inn-glasgow-west-end) -->
-
-<!-- :::: -->
-
-<!-- ::::::::: -->
-
-<!-- ### City Centre hotels (\~10 min by Subway) -->
-
-<!-- ::::::::::::::::::::::::: hotel-grid -->
-
-<!-- :::: hotel-card -->
-
-<!-- #### DoubleTree by Hilton (Cowcaddens) -->
-
-<!-- ::: badge-city -->
-
-<!-- City Centre -->
-
-<!-- ::: -->
-
-<!-- Close to Cowcaddens station. [Book →](https://www.hilton.com/en/hotels/glasdidi-doubletree-glasgow-central/) -->
-
-<!-- :::: -->
-
-<!-- :::: hotel-card -->
-
-<!-- #### Carlton George -->
-
-<!-- ::: badge-city -->
-
-<!-- City Centre -->
-
-<!-- ::: -->
-
-<!-- Near Queen Street station. [Book →](https://www.carltonhotelcollection.com/carlton-george-hotel-glasgow/) -->
-
-<!-- :::: -->
-
-<!-- :::: hotel-card -->
-
-<!-- #### Premier Suites George Square -->
-
-<!-- ::: badge-city -->
-
-<!-- City Centre -->
-
-<!-- ::: -->
-
-<!-- Spacious apart-hotel by George Square. [Book →](https://www.premiersuites.com/locations/uk/glasgow/) -->
-
-<!-- :::: -->
-
-<!-- :::: hotel-card -->
-
-<!-- #### Native Glasgow -->
-
-<!-- ::: badge-city -->
-
-<!-- City Centre -->
-
-<!-- ::: -->
-
-<!-- Contemporary aparthotel near Buchanan Street. [Book →](https://www.nativeplaces.com/glasgow/) -->
-
-<!-- :::: -->
-
-<!-- :::: hotel-card -->
-
-<!-- #### AC by Marriott (Buchanan Street) -->
-
-<!-- ::: badge-city -->
-
-<!-- City Centre -->
-
-<!-- ::: -->
-
-<!-- Modern hotel in the city centre. [Book →](https://www.marriott.com/en-gb/hotels/glabr-ac-hotel-glasgow/overview/) -->
-
-<!-- :::: -->
-
-<!-- :::: hotel-card -->
-
-<!-- #### Premier Inn St Enoch Square -->
-
-<!-- ::: badge-city -->
-
-<!-- City Centre -->
-
-<!-- ::: -->
-
-<!-- Good-value option right at St. Enoch. [Book →](https://www.premierinn.com/gb/en/hotels/scotland/strathclyde/glasgow/glasgow-city-centre-george-square.html) -->
-
-<!-- :::: -->
-
-<!-- :::: hotel-card -->
-
-<!-- #### Motel One -->
-
-<!-- ::: badge-city -->
-
-<!-- City Centre -->
-
-<!-- ::: -->
-
-<!-- Budget-friendly, central location. [Book →](https://www.motel-one.com/en/hotels/glasgow/) -->
-
-<!-- :::: -->
-
-<!-- :::: hotel-card -->
-
-<!-- #### Yotel Glasgow -->
-
-<!-- ::: badge-city -->
-
-<!-- City Centre -->
-
-<!-- ::: -->
-
-<!-- Compact, stylish rooms in the city centre. [Book →](https://www.yotel.com/en/hotels/yotel-glasgow) -->
-
-<!-- :::: -->
-
-<!-- :::: hotel-card -->
-
-<!-- #### Radisson Blu -->
-
-<!-- ::: badge-city -->
-
-<!-- City Centre -->
-
-<!-- ::: -->
-
-<!-- Full-service hotel near Argyle Street. [Book →](https://www.radissonhotels.com/en-us/hotels/radisson-blu-glasgow) -->
-
-<!-- :::: -->
-
-<!-- :::: hotel-card -->
-
-<!-- #### Leonardo Royal Hotel -->
-
-<!-- ::: badge-city -->
-
-<!-- City Centre -->
-
-<!-- ::: -->
-
-<!-- Large hotel close to the city centre. [Book →](https://www.leonardohotels.co.uk/hotels/glasgow/leonardo-royal-hotel-glasgow) -->
-
-<!-- :::: -->
-
-<!-- :::: hotel-card -->
-
-<!-- #### Clayton Hotel -->
-
-<!-- ::: badge-city -->
-
-<!-- City Centre -->
-
-<!-- ::: -->
-
-<!-- Modern hotel convenient for the Subway. [Book →](https://www.claytonhotels.com/glasgow/) -->
-
-<!-- :::: -->
-
-<!-- ::::::::::::::::::::::::: -->
 
 ## ✈️ Getting to Glasgow {#travel}
 
@@ -359,7 +230,7 @@ Guidance on arriving by air (Glasgow and Edinburgh airports), rail connections t
 Delegates travelling from outside the UK should check whether they need a visa or an Electronic Travel Authorisation (ETA) to attend. As of February 2026, most visa-exempt visitors (including from the EU, US, Canada, and Australia) now require an ETA before travelling — this is separate from a visa and is usually approved within a few days, but we recommend applying at least 2–3 weeks before travel. Check requirements via the [UK government's visa/ETA checker](https://www.gov.uk/check-uk-visa).
 
 ::: {.callout-note title="Invitation letter for visa application"}
-If you require an official letter of invitation to support your visa or ETA application, please **tick the related box in the registration form**. If you forget to do this or require further assistance, please [get in touch with the organising committee](organiser.qmd) with your name, affiliation, and passport details as they appear on your travel documents.
+If you require an official letter of invitation to support your visa or ETA application, please [**tick the related box in the registration form**](index.qmd#sec-regis). If you forget to do this or require further assistance, please [get in touch with the organising committee](organisers.qmd) with your name, affiliation, and passport details as they appear on your travel documents.
 :::
 
 ## 🚇 Exploring & Getting Around Glasgow {#getting-around}

@@ -1,5 +1,5 @@
 ---
-title: "Programme & Awards"
+title: "Programme"
 title-block-banner: "#00000000"
 title-block-banner-color: "white"
 format:
@@ -33,173 +33,185 @@ format:
 embed-resources: true
 ---
 
-::: coming-soon
-Workshop full programme will be added here soon.
-:::
+
 
 ::: {.callout-note appearance="minimal" icon="false"}
 ## 💻 Pre-conference tutorials
 
-Pre-conference tutorials will take place at the [School of Maths & Stats](accomodation.qmd#venue)
+Pre-conference tutorials will take place at the [School of Maths & Stats](https://www.google.com/maps/search/?api=1&query=School+of+Mathematics+and+Statistics+University+of+Glasgow)
 
-Please refer to the [pre-workshop section](workshops.qmd) for specific further details.
+Please refer to the [pre-workshop section](workshops.qmd) for further details.
 :::
 
-::: {.callout-note appearance="minimal" icon="false"}
-## 🏛️ Civic Reception --- Glasgow City Chambers
+<!-- ::: {.callout-note appearance="minimal" icon="false"} -->
+<!-- ## 🏛️ Civic Reception — Glasgow City Chambers -->
 
-Hosted at the historic **Glasgow City Chambers**, George Square G2 1DU.
+<!-- Hosted at the historic **Glasgow City Chambers**, George Square G2 1DU. -->
 
-**Getting there:** Short walk from Buchanan Street and Queen Street stations.\
-*Dress code guidance will be sent to registered participants closer to the event.*
+<!-- **Getting there:** Short walk from Buchanan Street and Queen Street stations.\ -->
+<!-- *Dress code guidance will be sent to registered participants closer to the event.* -->
+<!-- ::: -->
+
+
+
+::: coming-soon
+## 🏛️ Civic Reception
+Information about the welcome reception — including venue, timing, and dress code — will be added here closer to the event.
 :::
 
-::: {.callout-note appearance="minimal" icon="false"}
-## 🏅 Awards
 
-The Best Poster and Best Contributed Talk Awards recognise outstanding contributions to the workshop. We are particularly committed to highlighting the achievements of early-career researchers (within eight years of completion of PhD), including PhD students and postdoctoral fellows.
 
-Award winners will be announced on the final day of the workshop. All submissions for contributed talks and posters by students and early-career researchers will automatically be considered for these awards.
+:::: {.content-visible when-format="html"}
+# Workshop Programme {#schedule-tabs}
+
+::: coming-soon
+Workshop full programme will be added here soon.
 :::
-
-<!-- :::: {.content-visible when-format="html"} -->
-
-<!-- ## Schedule {#schedule-tabs} -->
 
 <!-- ::: panel-tabset -->
+<!-- ### Monday 21 -->
 
-<!-- ### Day 1 -->
+<!-- | Time          | Session                    | -->
+<!-- |:--------------|:----------------------------| -->
+<!-- | 09:00 – 09:00 | Registration                | -->
+<!-- | 09:00 – 10:30 | **Tutorial 1**               | -->
+<!-- | 10:30 – 11:00 | Coffee break                 | -->
+<!-- | 11:00 – 12:30 | **Tutorial 1 (cont.)**        | -->
+<!-- | 12:30 – 13:30 | **Lunch** 🍽                  | -->
+<!-- | 13:30 – 15:00 | **Tutorial 2**                | -->
+<!-- | 15:00 – 15:30 | Coffee break                  | -->
+<!-- | 15:30 – 17:00 | **Tutorial 2 (cont.)**         | -->
 
-<!-- | Time          | Topic               | -->
+<!-- ### Tuesday 22 -->
 
-<!-- |:--------------|:--------------------| -->
+<!-- | Time          | Session                     | -->
+<!-- |:--------------|:-----------------------------| -->
+<!-- | 09:00 – 09:00 | Registration                 | -->
+<!-- | 09:00 – 09:10 | Opening                       | -->
+<!-- | 09:10 – 10:00 | **Keynote 1**                 | -->
+<!-- | 10:00 – 10:30 | Coffee break                  | -->
+<!-- | 10:30 – 11:30 | Contributed talks              | -->
+<!-- | 11:30 – 11:45 | Short break                    | -->
+<!-- | 11:45 – 13:00 | Contributed talks              | -->
+<!-- | 13:00 – 14:30 | **Lunch** 🍽                    | -->
+<!-- | 14:30 – 15:30 | Contributed talks (4 talks)     | -->
+<!-- | 15:30 – 15:45 | Short break                     | -->
+<!-- | 15:45 – 17:00 | Poster session                  | -->
+<!-- | 18:00 onwards | **Welcome drinks**              | -->
 
-<!-- | 09:00 – 10:00 | **Keynote Speaker** | -->
+<!-- ### Wednesday 23 -->
 
-<!-- | 10:00 – 12:00 | Invited Talks       | -->
+<!-- | Time          | Session                     | -->
+<!-- |:--------------|:-----------------------------| -->
+<!-- | 09:00 – 10:00 | **Keynote 2**                 | -->
+<!-- | 10:00 – 10:30 | Coffee break                  | -->
+<!-- | 10:30 – 11:30 | Contributed talks (4 talks)     | -->
+<!-- | 11:30 – 11:45 | Short break                     | -->
+<!-- | 11:45 – 13:00 | Contributed talks (5 talks)     | -->
+<!-- | 13:00 – 14:30 | **Lunch** 🍽                    | -->
+<!-- | 14:30 – 15:30 | Contributed talks (4 talks)     | -->
+<!-- | 15:30 – 16:00 | Coffee break                    | -->
+<!-- | 16:00 – 17:00 | Contributed talks (4 talks)     | -->
 
-<!-- | 12:00 – 13:00 | **Lunch** 🍽         | -->
+<!-- ### Thursday 24 -->
 
-<!-- | 13:00 – 16:00 | Contributed Talks   | -->
-
-<!-- | 16:00 – 18:00 | Poster Session      | -->
-
-<!-- ### Day 2 -->
-
-<!-- | Time          | Topic               | -->
-
-<!-- |:--------------|:--------------------| -->
-
-<!-- | 09:00 – 10:00 | **Keynote Speaker** | -->
-
-<!-- | 10:00 – 12:00 | Talks               | -->
-
-<!-- | 12:00 – 13:00 | **Lunch** 🍽         | -->
-
-<!-- | 13:00 – 16:00 | Talks               | -->
-
-<!-- | 16:00 – 18:00 | **Keynote Speaker** | -->
-
-<!-- ### Day 3 -->
-
-<!-- | Time          | Topic               | -->
-
-<!-- |:--------------|:--------------------| -->
-
-<!-- | 09:00 – 10:00 | **Keynote Speaker** | -->
-
-<!-- | 10:00 – 12:00 | Talks               | -->
-
-<!-- | 12:00 – 13:00 | **Lunch** 🍽         | -->
-
-<!-- | 13:00 – 14:00 | Closing Remarks     | -->
-
-<!-- | 16:00 – 17:00 | End of Workshop     | -->
-
-<!-- | 19:00 – 22:00 | Social Event at GUU | -->
-
+<!-- | Time          | Session                     | -->
+<!-- |:--------------|:-----------------------------| -->
+<!-- | 09:30 – 10:30 | **Keynote 3**                 | -->
+<!-- | 10:30 – 11:00 | Coffee break                  | -->
+<!-- | 11:00 – 12:00 | Contributed talks (4 talks)     | -->
+<!-- | 12:00 – 13:30 | **Lunch** 🍽                    | -->
+<!-- | 13:30 – 14:30 | Contributed talks (4 talks)     | -->
+<!-- | 14:30 – 15:00 | Coffee break                    | -->
+<!-- | 15:00 – 16:00 | Contributed talks (4 talks)     | -->
+<!-- | 16:00 – 16:30 | **Awards + closing**            | -->
+<!-- | 17:30 – 18:30 | Sound check *(no dinner at GUU)* | -->
+<!-- | 18:30 onwards | **Ceilidh + drinks**             | -->
 <!-- ::: -->
 
-<!-- :::: -->
+# Awards
 
-<!-- ```{=html} -->
+The Best Poster and Best Contributed Talk Awards recognise outstanding contributions to the workshop We are particularly committed to highlighting the achievements of early-career researchers (within 8 years of completion of PhD), including PhD students and postdoctoral fellows.
 
-<!-- <!-- ═══════════════════════════════════════════════════════════ -->
+Award winners will be announced on the final day of the workshop. All submissions for contributed talks and posters by students and early-career researchers will automatically be considered for these awards.
 
-<!--      PDF VERSION  (flat sections, no tabs, no emojis) -->
+::::
 
-<!--      ═══════════════════════════════════════════════════════════ -->
+```{=html}
+<!-- ═══════════════════════════════════════════════════════════
+     PDF VERSION  (flat sections, no tabs, no emojis)
+     ═══════════════════════════════════════════════════════════
+```
 
-<!-- ``` -->
 
-<!-- ::: {.content-visible when-format="pdf"} -->
 
-<!-- # Pre-Conference Workshops & Welcome Reception -->
+::: {.content-visible when-format="pdf"}
 
-<!-- | Time           | Activity                             | -->
 
-<!-- |:---------------|:-------------------------------------| -->
+::: coming-soon
+Workshop full programme will be added here soon.
+:::
 
-<!-- | 10:00 -- 10:30 | Workshop (TBC)                       | -->
+<!-- # Monday 21 June -->
 
-<!-- | 10:30 -- 11:30 | Workshop (TBC)                       | -->
+<!-- | Time           | Session                    | -->
+<!-- |:---------------|:-----------------------------| -->
+<!-- | 09:00          | Registration                  | -->
+<!-- | 09:00 -- 10:30 | **Tutorial 1**                 | -->
+<!-- | 10:30 -- 11:00 | *Coffee break*                 | -->
+<!-- | 11:00 -- 12:30 | **Tutorial 1 (cont.)**          | -->
+<!-- | 12:30 -- 13:30 | *Lunch*                        | -->
+<!-- | 13:30 -- 15:00 | **Tutorial 2**                  | -->
+<!-- | 15:00 -- 15:30 | *Coffee break*                  | -->
+<!-- | 15:30 -- 17:00 | **Tutorial 2 (cont.)**           | -->
 
-<!-- | 11:30 -- 13:00 | Workshop (TBC)                       | -->
+<!-- # Tuesday 22 June -->
 
-<!-- | 13:00 -- 14:30 | *Lunch break*                        | -->
+<!-- | Time           | Session                    | -->
+<!-- |:---------------|:-----------------------------| -->
+<!-- | 09:00          | Registration                  | -->
+<!-- | 09:00 -- 09:10 | Opening                        | -->
+<!-- | 09:10 -- 10:00 | **Keynote 1**                   | -->
+<!-- | 10:00 -- 10:30 | *Coffee break*                  | -->
+<!-- | 10:30 -- 11:30 | Contributed talks               | -->
+<!-- | 11:30 -- 11:45 | *Short break*                   | -->
+<!-- | 11:45 -- 13:00 | Contributed talks               | -->
+<!-- | 13:00 -- 14:30 | *Lunch*                        | -->
+<!-- | 14:30 -- 15:30 | Contributed talks (4 talks)      | -->
+<!-- | 15:30 -- 15:45 | *Short break*                   | -->
+<!-- | 15:45 -- 17:00 | Poster session                  | -->
+<!-- | 18:00 onwards  | **Welcome drinks**               | -->
 
-<!-- | 14:00 -- 15:00 | Workshop (TBC)                       | -->
+<!-- # Wednesday 23 June -->
 
-<!-- | 15:00 -- 20:00 | **Welcome Drinks & Civic Reception** | -->
+<!-- | Time           | Session                    | -->
+<!-- |:---------------|:-----------------------------| -->
+<!-- | 09:00 -- 10:00 | **Keynote 2**                   | -->
+<!-- | 10:00 -- 10:30 | *Coffee break*                  | -->
+<!-- | 10:30 -- 11:30 | Contributed talks (4 talks)      | -->
+<!-- | 11:30 -- 11:45 | *Short break*                   | -->
+<!-- | 11:45 -- 13:00 | Contributed talks (5 talks)      | -->
+<!-- | 13:00 -- 14:30 | *Lunch*                        | -->
+<!-- | 14:30 -- 15:30 | Contributed talks (4 talks)      | -->
+<!-- | 15:30 -- 16:00 | *Coffee break*                  | -->
+<!-- | 16:00 -- 17:00 | Contributed talks (4 talks)      | -->
 
-<!-- **Civic Reception venue:** Glasgow City Chambers, George Square, Glasgow G2 1DU. A short walk from Buchanan Street and Queen Street stations. Dress code guidance will be sent to registered participants closer to the event. -->
+<!-- # Thursday 24 June -->
 
-<!-- # Day 1 -->
+<!-- | Time           | Session                    | -->
+<!-- |:---------------|:-----------------------------| -->
+<!-- | 09:30 -- 10:30 | **Keynote 3**                   | -->
+<!-- | 10:30 -- 11:00 | *Coffee break*                  | -->
+<!-- | 11:00 -- 12:00 | Contributed talks (4 talks)      | -->
+<!-- | 12:00 -- 13:30 | *Lunch*                        | -->
+<!-- | 13:30 -- 14:30 | Contributed talks (4 talks)      | -->
+<!-- | 14:30 -- 15:00 | *Coffee break*                  | -->
+<!-- | 15:00 -- 16:00 | Contributed talks (4 talks)      | -->
+<!-- | 16:00 -- 16:30 | **Awards + closing**             | -->
+<!-- | 17:30 -- 18:30 | Sound check *(no dinner at GUU)*  | -->
+<!-- | 18:30 onwards  | **Ceilidh + drinks**              | -->
 
-<!-- | Time           | Topic               | -->
 
-<!-- |:---------------|:--------------------| -->
 
-<!-- | 09:00 -- 10:00 | **Keynote Speaker** | -->
+:::
 
-<!-- | 10:00 -- 12:00 | Invited Talks       | -->
-
-<!-- | 12:00 -- 13:00 | *Lunch*             | -->
-
-<!-- | 13:00 -- 16:00 | Contributed Talks   | -->
-
-<!-- | 16:00 -- 18:00 | Poster Session      | -->
-
-<!-- # Day 2 -->
-
-<!-- | Time           | Topic               | -->
-
-<!-- |:---------------|:--------------------| -->
-
-<!-- | 09:00 -- 10:00 | **Keynote Speaker** | -->
-
-<!-- | 10:00 -- 12:00 | Talks               | -->
-
-<!-- | 12:00 -- 13:00 | *Lunch*             | -->
-
-<!-- | 13:00 -- 16:00 | Talks               | -->
-
-<!-- | 16:00 -- 18:00 | **Keynote Speaker** | -->
-
-<!-- # Day 3 -->
-
-<!-- | Time           | Topic               | -->
-
-<!-- |:---------------|:--------------------| -->
-
-<!-- | 09:00 -- 10:00 | **Keynote Speaker** | -->
-
-<!-- | 10:00 -- 12:00 | Talks               | -->
-
-<!-- | 12:00 -- 13:00 | *Lunch*             | -->
-
-<!-- | 13:00 -- 14:00 | Closing Remarks     | -->
-
-<!-- | 16:00 -- 17:00 | End of Workshop     | -->
-
-<!-- ::: -->

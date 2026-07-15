@@ -49,7 +49,59 @@ The EnviBayes–INLA Workshop 2027 is the first joint meeting between the EnviBa
 
 
 
-<!-- # Keynote speakers {#sec-keynotes} -->
+
+
+
+## Registration and Abstract Submission {#sec-regis}
+::: coming-soon
+Information about registration and abstract submission for talks and posters will be added here soon.
+:::
+
+
+## Important Dates {#sec-dates}
+
+::: {.info-box}
+::::: columns
+::: {.column width="50%"}
+#### Contributed Talks & Posters Submission
+- **Open**: Expected September 2026
+- **Close**: Expected December 2026
+:::
+::: {.column width="50%"}
+#### Registration
+- **Early Bird Opens**: Expected September 2026
+- **Early Bird Closes**: Expected January 2027
+- **Standard registration Closes**: Expected March 2027
+:::
+:::::
+:::
+
+## Registration Cost 
+
+---
+
+::: {.info-box}
+::::: columns
+::: {.column width="50%"}
+#### Non-Students
+- **Early bird**:
+- **Regular**:
+- **Workshops**:
+:::
+::: {.column width="50%"}
+#### Students
+- **Early bird**:
+- **Regular**:
+- **Workshops**:
+:::
+:::::
+:::
+
+## Keynote speakers {#sec-keynotes}
+
+::: coming-soon
+Information about Keynote speakers will be added here soon.
+:::
 
 <!-- ------------------------------------------------------------------------ -->
 
@@ -61,64 +113,7 @@ The EnviBayes–INLA Workshop 2027 is the first joint meeting between the EnviBa
 <!-- ![Speaker3](images/Speaker1.png){width="185"} -->
 <!-- ::: -->
 
-# Registration and Abstract Submission {#sec-regis}
-::: coming-soon
-Information about registration and abstract submission for talks and posters will be added here soon.
-:::
-
-# Important Dates {#sec-dates}
-
-------------------------------------------------------------------------
-
-::::: columns
-::: {.column width="50%"}
-[Contributed Talks & Posters Submission]{style="color:#467F9C;"}
-
-- **Open**: Expected September 2026
-
-- **Close**: Expected December 2026
-:::
-
-::: {.column width="50%"}
-[Registration]{style="color:#467F9C;"}
-
-- **Early Bird Opens**: Expected September 2026
-
-- **Early Bird Closes**: Expected January 2027
-
-- **Standard registration Closes**: Expected March 2027
-:::
-:::::
-
-# Registration Cost – Conference
-
-------------------------------------------------------------------------
-
-:::::: columns
-::: {.column width="50%"}
-[Non-Students]{style="color:#467F9C;"}
-
-- **Early bird**:
-
-- **Regular**:
-
-- **Workshops**
-:::
-
-::: {.column width="50%"}
-[Students]{style="color:#467F9C;"}
-
-- **Early bird**:
-
-- **Regular**:
-
-- **Workshops**
-:::
-
-
-::::::
-
-## Contact {}
+## Contact {#sec-contact}
 
 Questions about the conference? Join the discussion on [GitHub](https://github.com/EnviBayesINLA/workshop/discussions) or contact the main organisers [Daniela Castro-Camilo](mailto:daniela.castro-camilo@glasgow.ac.uk) and [Jafet Belmont Osuna](mailto:jafet.belmontosuna@glasgow.ac.uk). 
 

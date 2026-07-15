@@ -261,74 +261,67 @@ tbody td:first-child {
   font-weight: 600;
 }
 
-/* ── Hotel cards (accommodation page) ───────────────────────────── */
-.hotel-grid {
+/* ── Venue building cards ─────────────────────────────────────────── */
+.venue-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 1rem;
   margin: 1rem 0 1.6rem;
 }
 
-.hotel-card {
+.venue-card {
   border: 1px solid rgba(27,79,94,0.15);
   border-radius: 8px;
-  padding: 1rem 1.2rem;
-  background: #ffffff;
+  padding: 1.2rem 1.4rem;
+  background: var(--wb-teal-pale);
   box-shadow: 0 1px 6px rgba(0,0,0,0.06);
-  transition: box-shadow 0.18s ease, transform 0.18s ease;
 }
 
-.hotel-card:hover {
-  box-shadow: 0 4px 18px rgba(27,79,94,0.14);
-  transform: translateY(-2px);
-}
-
-.hotel-card h4 {
-  font-family: 'Inter', sans-serif;
-  font-size: 0.9rem;
-  font-weight: 600;
-  color: var(--wb-dark);
-  margin: 0 0 0.35rem;
-}
-
-.hotel-card h4::after { display: none; }   /* suppress global h4::after if applied */
-
-.hotel-card .badge {
-  display: inline-block;
-  font-size: 0.68rem;
-  font-weight: 600;
-  padding: 2px 8px;
-  border-radius: 20px;
-  margin-bottom: 0.5rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-
-.badge-west {
-  background: rgba(27,79,94,0.1);
-  color: var(--wb-teal);
-}
-
-.badge-city {
-  background: rgba(232,137,43,0.12);
-  color: #8B5100;
-}
-
-.hotel-card p {
-  font-size: 0.84rem;
-  color: var(--wb-warm-grey);
-  margin: 0.25rem 0 0;
-}
-
-.hotel-card a {
-  color: var(--wb-teal);
-  font-weight: 500;
+.venue-card h3 a {
   text-decoration: none;
+  margin-left: 0.3rem;
+  font-size: 0.9em;
+}
+.venue-card h3 a:hover {
+  text-decoration: none;
+  opacity: 0.7;
+}
+.venue-card p.building {
+  font-weight: 600;
+  margin: 0 0 0.4rem;
+  color: var(--wb-dark);
 }
 
-.hotel-card a:hover {
-  color: var(--wb-amber);
+.venue-card ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.venue-info-link {
+  display: inline-block;
+  background: none;
+  border: none;
+  padding: 0;
+  margin-right: 1rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--wb-teal);
   text-decoration: underline;
+  cursor: pointer;
+}
+
+.venue-info-link:hover {
+  color: var(--wb-amber);
+}
+
+.modal-header {
+  background: var(--wb-teal-pale);
+  border-bottom: 2px solid var(--wb-teal);
+}
+
+.modal-title {
+  color: var(--wb-teal);
+  font-family: 'Playfair Display', serif;
 }
 
 /* ── Coming-soon placeholder ─────────────────────────────────────── */
@@ -454,3 +447,31 @@ a:hover {
 @media (max-width: 480px) {
   .hotel-grid { grid-template-columns: 1fr; }
 }
+
+
+/* ── Single-box two-column info panel ────────────────────────────── */
+.info-box {
+  background: var(--wb-off-white);
+  border-radius: 8px;
+  padding: 1.4rem 1.6rem;
+  margin: 1rem 0 1.6rem;
+}
+
+.info-box .columns {
+  margin: 0;
+}
+
+.info-box .column {
+  background: none !important;  /* override the global .columns .column background */
+  padding: 0.4rem 1rem;
+  margin-bottom: 0;
+}
+
+.info-box h4, .info-box .section-label {
+  color: var(--wb-teal-light, #467F9C);
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
