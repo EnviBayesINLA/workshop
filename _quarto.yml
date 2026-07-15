@@ -18,13 +18,11 @@ website:
         href: index.qmd#keynotes
       - text: Important Dates 
         href: index.qmd#dates
-      - text: Programme
-        href: schedules.qmd
     - text: Workshops
       href: workshops.qmd
     - text: Organisers
       href: organisers.qmd
-    - text: Programme
+    - text: Programme & Awards
       href: schedules.qmd
     - text: Venue & Travel
       href: accommodation.qmd

@@ -2,104 +2,34 @@
 title: "Venue & Travel"
 title-block-banner: "#00000000"
 title-block-banner-color: "white"
-include-in-header:
-  - text: |
-      <style>
-
-      #title-block-header.quarto-title-block.default .quarto-title-meta {
-        color: #ffffff;
-      }
-
-      #title-block-header {
-        background-image: url(images/Arran.jpg);
-        background-size: cover;
-        background-position-y: center;
-        height: 200px;
-      }
-
-      .quarto-title-block .quarto-title-banner {
-        height: 0;
-      }
-      
-      .quarto-title-block .title {
-        font-size: 3rem !important;
-      }
-
-      /* ── section utility ────────────────────────────────────────────── */
-      
-      .travel-link-card {
-       border: 1px solid #ddd;
-       border-radius: 8px;
-       padding: 1.2rem 1.5rem;
-       margin: 1rem 0;
-       background: #f9f9f9;
-      }
-      .travel-link-card h3 { margin-top: 0; }
-
-      .coming-soon {
-        background: #f8f9fa;
-        border: 2px dashed #ced4da;
-        border-radius: 8px;
-        padding: 1.5rem 2rem;
-        color: #6c757d;
-        font-style: italic;
-        margin-top: 0.5rem;
-      }
-
-      .coming-soon p {
-        margin: 0;
-      }
-
-      /* hotel cards */
-
-      .hotel-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-        gap: 1rem;
-        margin-top: 1rem;
-      }
-
-      .hotel-card {
-        border: 1px solid #dee2e6;
-        border-radius: 8px;
-        padding: 1rem 1.2rem;
-        background: #fff;
-      }
-
-      .hotel-card h4 {
-        margin: 0 0 0.3rem 0;
-        font-size: 1rem;
-      }
-
-      .hotel-card .badge {
-        display: inline-block;
-        font-size: 0.72rem;
-        font-weight: 600;
-        padding: 2px 8px;
-        border-radius: 4px;
-        margin-bottom: 0.5rem;
-        text-transform: uppercase;
-        letter-spacing: 0.04em;
-      }
-      
-
-      .badge-west {
-        background: #d4edda;
-        color: #155724;
-      }
-
-      .badge-city {
-        background: #cce5ff;
-        color: #004085;
-      }
-
-      .hotel-card p {
-        font-size: 0.88rem;
-        color: #495057;
-        margin: 0.3rem 0 0;
-      }
-
-      </style>
+format:
+  html:
+    include-in-header:
+      - text: |
+          <style>
+          #title-block-header {
+            background-image: url(images/Arran.jpg);
+            background-size: cover;
+            background-position: center;
+            height: 250px;
+          }
+          /* Title */
+          .quarto-title-block .title {
+            font-size: 3.5rem !important;
+            font-weight: 700;
+            color: white;
+          }
+          /* Subtitle */
+          .quarto-title-block .subtitle {
+            font-size: 1.6rem !important;
+            color: white;
+          }
+          /* Metadata (if any) */
+          #title-block-header.quarto-title-block.default .quarto-title-meta {
+            color: white;
+          }
+          </style>
+          
 embed-resources: true
 editor_options: 
   chunk_output_type: console
@@ -429,7 +359,7 @@ Guidance on arriving by air (Glasgow and Edinburgh airports), rail connections t
 Delegates travelling from outside the UK should check whether they need a visa or an Electronic Travel Authorisation (ETA) to attend. As of February 2026, most visa-exempt visitors (including from the EU, US, Canada, and Australia) now require an ETA before travelling — this is separate from a visa and is usually approved within a few days, but we recommend applying at least 2–3 weeks before travel. Check requirements via the [UK government's visa/ETA checker](https://www.gov.uk/check-uk-visa).
 
 ::: {.callout-note title="Invitation letter for visa application"}
-If you require an official letter of invitation to support your visa or ETA application, please [get in touch with the organising committee](organiser.qmd) with your name, affiliation, and passport details as they appear on your travel documents.
+If you require an official letter of invitation to support your visa or ETA application, please **tick the related box in the registration form**. If you forget to do this or require further assistance, please [get in touch with the organising committee](organiser.qmd) with your name, affiliation, and passport details as they appear on your travel documents.
 :::
 
 ## 🚇 Exploring & Getting Around Glasgow {#getting-around}
