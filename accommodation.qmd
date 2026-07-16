@@ -86,11 +86,8 @@ leaflet() |>
 
 ```
 
-
 ::: {style="margin-top: 2rem;"}
 :::
-
-
 
 ```{=html}
 <div class="modal fade" id="maths-info" tabindex="-1" aria-hidden="true">
@@ -163,47 +160,74 @@ leaflet() |>
 </div>
 ```
 
+::::::: venue-grid
+::: venue-card
+### [School of Maths & Stats 📍](https://www.google.com/maps/search/?api=1&query=School+of+Mathematics+and+Statistics+University+of+Glasgow){target="_blank"}
 
-
-::: {.venue-grid}
-
-::: {.venue-card}
-### School of Maths & Stats [📍](https://www.google.com/maps/search/?api=1&query=School+of+Mathematics+and+Statistics+University+of+Glasgow){target="_blank"}
 - [Pre-workshop tutorials](workshops.qmd)
 
-<button type="button" class="venue-info-link" data-bs-toggle="modal" data-bs-target="#maths-info">Accessibility & Emergency</button>
+<button type="button" class="venue-info-link" data-bs-toggle="modal" data-bs-target="#maths-info">
+
+Accessibility & Emergency
+
+</button>
 :::
 
-::: {.venue-card}
-###  Boyd Orr Building [📍](https://www.google.com/maps/search/?api=1&query=Boyd+Orr+Building+University+of+Glasgow){target="_blank"}
+::: venue-card
+### [Boyd Orr Building📍](https://www.google.com/maps/search/?api=1&query=Boyd+Orr+Building+University+of+Glasgow){target="_blank"}
 
 - Registration
 - Keynote panel sessions
 - Contributed talks
 
-<button type="button" class="venue-info-link" data-bs-toggle="modal" data-bs-target="#boydorr-info">Accessibility & Emergency</button>
+<button type="button" class="venue-info-link" data-bs-toggle="modal" data-bs-target="#boydorr-info">
+
+Accessibility & Emergency
+
+</button>
 :::
 
-::: {.venue-card}
-### Atrium, Wolfson Building [📍](https://www.google.com/maps/search/?api=1&query=Wolfson+Medical+School+Building+University+of+Glasgow){target="_blank"}
+::: venue-card
+### [Atrium, Wolfson Building 📍](https://www.google.com/maps/search/?api=1&query=Wolfson+Medical+School+Building+University+of+Glasgow){target="_blank"}
 
 - Poster sessions
 - Coffee and refreshments
 
-<button type="button" class="venue-info-link" data-bs-toggle="modal" data-bs-target="#atrium-info">Accessibility & Emergency</button>
+<button type="button" class="venue-info-link" data-bs-toggle="modal" data-bs-target="#atrium-info">
+
+Accessibility & Emergency
+
+</button>
 :::
 
-::: {.venue-card}
-###  Glasgow University Union [📍](https://www.google.com/maps/search/?api=1&query=Glasgow+University+Union){target="_blank"}
+::: venue-card
+### [Glasgow University Union📍](https://www.google.com/maps/search/?api=1&query=Glasgow+University+Union){target="_blank"}
 
 - Social event
 - Drinks, music, and informal networking
 
-<button type="button" class="venue-info-link" data-bs-toggle="modal" data-bs-target="#guu-info">Accessibility & Emergency</button>
-:::
+<button type="button" class="venue-info-link" data-bs-toggle="modal" data-bs-target="#guu-info">
 
-:::
+Accessibility & Emergency
 
+</button>
+:::
+:::::::
+
+
+::: callout-important
+## Code of Conduct
+
+**Expected Behaviour**
+
+All members and participants must maintain a professional, respectful, and productive environment free from discrimination, harassment, and retaliation. Debate is encouraged but must be conducted with professionalism, respect, and courtesy.
+
+**Unacceptable Behaviour**
+
+Prohibited behaviours include threats, harassment, disrespectful comments or actions targeting personal characteristics (e.g., gender, race, religion, etc.), intimidation, stalking, inappropriate physical contact, and unwelcome sexual attention. Disorderly or disruptive conduct and violations of event rules are also unacceptable.
+
+These standards apply to all participants. Anyone who experiences, observes, or has knowledge of a violation should bring it to the attention of [Daniela Castro-Camilo](daniela.castrocamilo@glasgow.ac.uk) and [Jafet Belmont](jafet.belmontosuna@glasgow.ac.uk).
+:::
 
 
 
@@ -216,8 +240,6 @@ The closest Subway station to the main University campus is **Hillhead**. For Ci
 Delegates are advised to **book early** to guarantee availability at their preferred hotel.
 
 {{< downloadthis AccommodationSheetUoG.pdf dname="Accomodation Glasgow" label="Download Accomodation details PDF" icon="database-fill-down" type="info" >}}
-
-
 
 ## ✈️ Getting to Glasgow {#travel}
 
@@ -249,7 +271,7 @@ Plan your trip at: [visitglasgow.com](visitglasgow.com)
 
 [Things to do →](https://www.visitglasgow.com/explore-by-interest/arts-museums-and-heritage?rsrc=peoplemakeglasgow.com){.btn .btn-primary target="_blank"}
 
-![](images/Royal Exchange Square.jpg){fig-align="center" width="521"}
+![](images/Royal%20Exchange%20Square.jpg){fig-align="center" width="521"}
 
 ## ♿ Accessibility & Sustainability {#accessibility}
 
